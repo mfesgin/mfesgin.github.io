@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Muhammed F. Esgin"
-  avatar           : ""
+  avatar           : 
   bio              : "Research assistant at Monash University. Interested in lattice-based cryptography, particularly lattice-based zero-knowledge proofs and their real-life applications, for example, to blockchain protocols."
-  location         : ""
+  location         : 
   employer         : "Monash University"
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5T1IaFQAAAAJ"
   email            : "[firstname] [dot] [lastname] [at] monash.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
