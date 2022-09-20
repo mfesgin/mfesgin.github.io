@@ -1,4 +1,4 @@
-This project is forked from [al-folio](https://github.com/alshedivat/al-folio/) to create my personal webpage. Please refer to this original template for details. The license statement is quoted below exactly as in the original al-folio project (at the time writing, 20 Sep 2022).
+This project is forked from [al-folio](https://github.com/alshedivat/al-folio/) to create my personal webpage. Please refer to this original template for details. The license statement is quoted below exactly as in the original al-folio project (at the time of writing, 20 Sep 2022).
 
 ## License
 
