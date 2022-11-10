@@ -7,8 +7,8 @@
   
 "CORE Rank: A":
   url: https://www.core.edu.au/conference-portal
-  color: #{$cyan-color}
+  color: "#ffff99"
   
 "CORE Rank: B":
   url: https://www.core.edu.au/conference-portal
-  color: #{$grey-color}
+  color: "#99ccff"
