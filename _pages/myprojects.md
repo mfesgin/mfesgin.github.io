@@ -15,7 +15,7 @@ The following are some of the major projects I am/was involved in.
 	- See [this website](https://ocsc.com.au/pqcip/) for more information.
 
 2. Algorand Centre of Excellence on Sustainability Informatics for the Pacific (ACE-SIP) \[2022--2027\]:
-	- This project involves several institutions across the Pacific and is lead by Monash University. It aims to advance the state of the art in blockchain technologies and exploit their potential for a sustainable future. The project spans different clusters on research, education as well as community.
+	- This project involves several institutions across the Pacific and is led by Monash University. It aims to advance the state of the art in blockchain technologies and exploit their potential for a sustainable future. The project spans different clusters on research, education as well as community.
 	- The project is funded by [Algorand Foundation](https://www.algorand.foundation/).
 	- See [this website](https://ace-sip.org/) for more information.
 
