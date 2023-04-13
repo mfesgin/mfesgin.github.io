@@ -18,5 +18,5 @@ The following are some of the major projects I am/was involved in.
 	- The project is funded by [Algorand Foundation](https://www.algorand.foundation/).
 	- See [this website](https://ace-sip.org/) for more information.
 3. Next Generation Graduate Program on Quantum Information Technology: Industry Readiness & Applications \[2023--2026\]:
-	- This program aims to train the next generation expert on quantum information technologies. It is in collaboration with a variety of industry and university partners. 
+	- This program aims to train the next generation experts on quantum information technologies. It is in collaboration with a variety of industry and university partners. 
 	- The project is funded by CSIRO.
