@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: This page contains a list of courses I taught or am teaching.
 nav: true
-nav_order: 3
+nav_order: 5
 ---
 
 The following are the courses/units I have been teaching recently at Monash University.
