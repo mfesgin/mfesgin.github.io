@@ -13,7 +13,7 @@ nav_order: 4
 I have **PhD scholarships available**. If you're interested in pursuing a PhD under my supervision, please refer to the information below and contact me via email with the subject line "Prospective PhD student - \<Your Name\>". 
 
 
-#### Requirements
+##### Requirements
 
 A strong mathematical background is **required**, but a strong cryptography background is not necessarily a must (but it's of course a plus). Some knowledge/experience in coding (for example, Python, C/C++, SageMath) is also a plus. Candidates **must** have completed a significant research component either as part of their undergraduate (honours) degree or masters degree.
 
@@ -30,7 +30,7 @@ Monash University is one of the top universities in Australia and is ranked #44 
 
 #### Why choose to live and study in Melbourne?
 
-Melbourne constantly ranks as one of the most liveable cities in the world. It is also ranked as one of the safest cities (according to [Safe Cities Index 2021](https://safecities.economist.com/safe-cities-2021-whitepaper/)). Melbourne has a diverse and welcoming environment for people from all around the world with more than 100 cultures represented. You can find more reasons for 'Why Melbourne' at [this website](https://liveinmelbourne.vic.gov.au/discover/melbourne-victoria/why-melbourne).
+Melbourne constantly ranks as one of the most liveable cities in the world. It is also ranked as one of the safest cities (according to [Safe Cities Index 2021](https://safecities.economist.com/safe-cities-2021-whitepaper/)). Melbourne has a diverse and welcoming environment for people from all around the world with more than 100 cultures represented. Melbourne is also very proud of its coffee culture :) You can find more reasons for 'Why Melbourne' at [this website](https://liveinmelbourne.vic.gov.au/discover/melbourne-victoria/why-melbourne).
 
 
 #### How to apply?
