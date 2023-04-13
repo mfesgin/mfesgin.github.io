@@ -10,7 +10,7 @@ nav_order: 4
 
 ### Prospective Students
 
-I have **PhD scholarships available**. If you're interested in pursuing a PhD under my supervision, please refer to the information below and contact me via email with the subject line "Prospective PhD student - \<Your Name\>". 
+I have **multiple PhD scholarships available**. If you're interested in pursuing a PhD under my supervision, please refer to the information below and contact me via email with the subject line "Prospective PhD student - \<Your Name\>". 
 
 
 ##### Requirements
@@ -25,7 +25,7 @@ Australian universities generally offer highly competetive stipend scholarships,
 
 Monash University is one of the top universities in Australia and is ranked #44 in the Times Higher Education (THE) World University Rankings 2023. Monash is also home to one of the strongest cryptography and cybersecurity research groups in Australia (and more broadly in the Asia-Pacific region). 
 
-[The cybersecurity group](https://www.monash.edu/it/ssc/cybersecurity) at Monash has a particular focus on cryptography and its applications (e.g., to blockchain). We aim to have a collaborative, friendly (as opposed to competetive) environment for anyone involved in the group. As a researcher in the group, PhD candidates get an excellent opportunity to collaborate with leading researchers in cybersecurity both internally at Monash and externally thanks to the group's existing connections and joint grants.
+[The cybersecurity group](https://www.monash.edu/it/ssc/cybersecurity) at Monash has a particular focus on cryptography and its applications (e.g., to blockchain). We aim to have a collaborative, friendly environment for anyone involved in the group. As a researcher in the group, PhD candidates get an excellent opportunity to collaborate with leading researchers in cybersecurity both internally at Monash and externally thanks to the group's existing connections and joint grants.
 
 
 ##### Why choose to live and study in Melbourne?
