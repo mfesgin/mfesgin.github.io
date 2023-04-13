@@ -21,6 +21,8 @@ I am interested in mathematical aspects of cybersecurity, particularly around cr
 
 I currently work as a lecturer at the Faculty of Information Technology, Monash University. Before that, I was a post-doc at Monash and CSIRO's Data61 jointly. I also did a research internship at IBM Research, Zurich, hosted by [Vadim Lyubashevsky](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-vad). I completed my PhD at Monash under the supervision of [Ron Steinfeld](https://users.monash.edu.au/~rste/), [Joseph Liu](https://users.monash.edu.au/~kailiu/) and [Dongxi Liu](https://people.csiro.au/L/D/Dongxi-Liu).
 
+I organise Monash Software Systems and Cybersecurity (SSC) Seminars. If you are interested in cutting-edge research in cybersecurity, sofware engineering and data engineering, see [our website](https://www.monash.edu/it/ssc/seminars) for past and upcoming events.
+
 I have **PhD scholarships available**. If you're interested in pursuing a PhD under my supervision, please contact me via email with the subject line "Prospective PhD student - \<Your Name\>". A strong mathematical background is needed, but a strong cryptography background is not necessarily a must (but it's of course a plus). Make sure to include all of your transcripts (with grading schema) and your CV that details your GPA out of the total for each of your study (starting from your undergraduate degree).
 
 This webpage is currently under development. If you spot any issues, please contact me via email (provided at the end of the page).
