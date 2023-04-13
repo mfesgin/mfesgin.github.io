@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /supervision/
-title: projects
-description: This page contains a list of major projects I am/was involved in.
+title: supervision
+description:
 nav: true
 nav_order: 4
 ---
