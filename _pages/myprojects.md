@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: A list of courses I taught or am teaching.
+permalink: /projects/
+title: projects
+description: A list of major projects I am/was involved in.
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 The following are the courses/units I have been teaching recently at Monash University.
