@@ -23,6 +23,6 @@ I currently work as a lecturer at the Faculty of Information Technology, Monash 
 
 I organise Monash Software Systems and Cybersecurity (SSC) Seminars. If you are interested in cutting-edge research in cybersecurity, sofware engineering and data engineering, see [our website](https://www.monash.edu/it/ssc/seminars) for past and upcoming events.
 
-I have **multiple PhD scholarships available**. Please refer to [here](https://mfesgin.github.io/supervision/).
+I have **multiple PhD scholarships available**. Please refer to [supervision](https://mfesgin.github.io/supervision/).
 
 This webpage is currently under development. If you spot any issues, please contact me via email (provided at the end of the page).
