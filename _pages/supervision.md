@@ -39,11 +39,32 @@ Melbourne constantly ranks as one of the most liveable cities in the world. It i
 
 Contact me via email with the subject line "Prospective PhD student - \<Your Name\>". Make sure to include 
 1. all of your transcripts (with grading schema), and 
-2. your CV that details your GPA out of the total for each of your study (starting from your undergraduate degree).
+2. your CV (that adheres to the guidelines below).
 
 For Monash-specific information, refer to [this website](https://www.monash.edu/graduate-research/study/apply).
 
 
+##### What (not) to include in your CV?
+
+Below are some guidelines you should follow when writing your CV to be sent to me. Although they are not written specifically as general advice, a standard academic CV would not be in contrast to most of these guidelines.
+
+Your CV **should** contain the following information:
+1. Full name,
+2. Each of your educational course details starting from your bachelor's degree,
+3. Average score (GPA) of each of your educational course (you should specify the maximum score),
+4. List of publications (if any),
+5. Relevant work experience (if any),
+6. Relevant research experience (if any),
+7. Educational/work/research awards/highlights,
+8. English language test (such as IELTS, TOEFL) results (if any).
+
+Your CV **should NOT** contain the following information:
+1. Primary/secondary/high school details,
+2. Marital status,
+3. Date of birth,
+4. Home address,
+5. Hobbies,
+6. National identity or driver's license details.
 
 
 
