@@ -70,7 +70,7 @@ Your CV **should NOT** contain the following information:
 
 ### Current/Past PhD Students
 
-I have (had) the privilige of supervising the following PhD candidates:
+I have (had) the privilege of supervising the following PhD candidates:
 
 
 1. Nikai Jagganath \[2023--present\]
