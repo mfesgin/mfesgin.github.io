@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-12-12 15:59:00-0400
+date: 2023-05-24 15:59:00-0400
 inline: true
 ---
 
-"BlindHub: Bitcoin-Compatible Privacy-Preserving Payment Channel Hubs Supporting Variable Amounts" is accepted to appear at IEEE Symposium on Security & Privacy (S&P) 2023 (CORE rank: A*)! See the full paper [here](https://eprint.iacr.org/2022/1735.pdf)
+"Efficient Hybrid Exact/Relaxed Lattice Proofs and Applications to Rounding and VRFs" is accepted to appear at CRYPTO 2023 (CORE rank: A*)! See the full paper [here](https://eprint.iacr.org/2022/141.pdf)
