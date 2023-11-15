@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am interested in mathematical aspects of cybersecurity, particularly around cryptography. My current research focuses are quantum-safe cryptography (particularly, from lattices and hash functions), privacy-preserving protocols, zero-knowledge proofs and blockchain protocols as well as their real-life applications to establish various security features such as confidentiality, integrity, privacy, anonymity and accountability in practice. I have also worked on symmetric-key cryptography and classical public-key cryptography.
+I am interested in mathematical aspects of cybersecurity, particularly around cryptography. My current research focuses are quantum-safe cryptography (particularly, from lattices and hash functions), privacy-enhancing technologies, zero-knowledge proofs and blockchain protocols as well as their real-life applications to establish various security features such as confidentiality, integrity, privacy, anonymity and accountability in practice. I have also worked on symmetric-key cryptography and classical public-key cryptography.
 
 I currently work as a lecturer at the Faculty of Information Technology, Monash University. Before that, I was a post-doc at Monash and CSIRO's Data61 jointly. I also did a research internship at IBM Research, Zurich, hosted by [Vadim Lyubashevsky](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-vad). I completed my PhD at Monash under the supervision of [Ron Steinfeld](https://users.monash.edu.au/~rste/), [Joseph Liu](https://users.monash.edu.au/~kailiu/) and [Dongxi Liu](https://people.csiro.au/L/D/Dongxi-Liu).
 
