@@ -72,7 +72,10 @@ Your CV **should NOT** contain the following information:
 
 I have (had) the privilege of supervising the following PhD candidates:
 
-
+1. Jie Xu \[2023--present\]
+	- works on post-quantum cryptography and zero-knowledge proofs
+1. Mert Yassi \[2023--present\]
+	- works on implementation aspects of post-quantum cryptography
 1. Nikai Jagganath \[2023--present\]
 	- works on quantum security analysis of post-quantum cryptography schemes 
 1. Xinyu Zhang \[2021--present\]
