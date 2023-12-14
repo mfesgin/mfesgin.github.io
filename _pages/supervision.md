@@ -15,11 +15,13 @@ I have **multiple PhD scholarships available**. If you're interested in pursuing
 
 ##### Requirements
 
-A strong mathematical background is **required**, but a strong cryptography background is not necessarily a must (but it's of course a plus). Some knowledge/experience in coding (for example, Python, C/C++, SageMath) is also a plus. Candidates **must** have completed a significant research component either as part of their undergraduate (honours) degree or masters degree.
+A strong mathematical and cryptography background is **required**. Some knowledge/experience in coding (for example, Python, C/C++, SageMath) is a plus. Candidates are expected to have completed or complete a significant research component either as part of their undergraduate (honours) degree or masters degree. Candidates expecting to graduate in the next ~6 months are welcome to apply.
 
 
 
 ##### Why choose to pursue a PhD at Monash University or in Australia more generally?
+
+At Monash Faculty of IT (and more broadly in Australia), a PhD study typically takes 3.5 years. For our PhD positions, there is no coursework, but there are rather "graduate research professional development activities" (see [here](https://handbook.monash.edu/2024/courses/0190) for more details). Candidates start to work on their PhD research project from the very beginning. Of course, in many cases, the initial few months would involve a lot of background learning, so candidates are not expected to produce research results immediately.
 
 Australian universities generally offer highly competetive stipend scholarships, at least at the rate detailed [here](https://www.education.gov.au/research-block-grants/research-training-program) (which is currently in 2023 around AU$30,000 per annum). A standard Monash Faculty of IT scholarship for 2023 is AU$33,000 (tax free). This scholarship does *not require* a PhD student to carry out any teaching duties. However, many students voluntarily take up teaching assistant (TA) duties (known mostly as tutoring in Australia). Depending on the activity type and number of activities undertaken, the teaching income can amount to a significant value, for example, between $5K to $15K. You can refer to [here](https://www.monash.edu/enterprise-agreements/staff-salary-rates/teaching-associate-and-casual-academic-research-assistant) for the official Monash rates for teaching associate duties. 
 
