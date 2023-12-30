@@ -28,6 +28,6 @@ I have **multiple PhD scholarships available**. Please refer to [supervision](ht
 This webpage is currently under development. If you spot any issues, please contact me via email (provided at the end of the page).
 
 #### Program Committee Memberships
-- [ASIACRYPT](https://asiacrypt.iacr.org/) 2023
-- ACM AsiaCCS [2023](https://asiaccs2023.org/)
-- ACISP [2021](https://data61dsslab.github.io/acisp2021/)
+- 2024: [ACM CCS](https://www.sigsac.org/ccs/CCS2024/home.html)
+- 2023: [ACM AsiaCCS](https://asiaccs2023.org/), [ASIACRYPT](https://asiacrypt.iacr.org/)
+- 2021: [ACISP](https://data61dsslab.github.io/acisp2021/)
