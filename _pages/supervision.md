@@ -76,6 +76,8 @@ Your CV **should NOT** contain the following information:
 
 I have (had) the privilege of supervising the following PhD candidates:
 
+1. Yini Lin \[2024--present\]
+	- works on post-quantum privacy tools
 1. Jie Xu \[2023--present\]
 	- works on post-quantum cryptography and zero-knowledge proofs
 1. Mert Yassi \[2023--present\]
