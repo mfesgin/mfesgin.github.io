@@ -21,7 +21,7 @@ I am interested in mathematical aspects of cybersecurity, particularly around cr
 
 I currently work as a lecturer at the Faculty of Information Technology, Monash University, where I also serve as the Deputy Course Director of Master of Cybersecurity and the Deputy Director of Post-Quantum Cryptography in the Indo-Pacific ([PQCIP](https://ocsc.com.au/pqcip/)) Program. Before that, I was a post-doc at Monash and CSIRO's Data61 jointly. I also did a research internship at IBM Research, Zurich, hosted by [Vadim Lyubashevsky](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-vad). I completed my PhD at Monash under the supervision of [Ron Steinfeld](https://users.monash.edu.au/~rste/), [Joseph Liu](https://users.monash.edu.au/~kailiu/) and [Dongxi Liu](https://people.csiro.au/L/D/Dongxi-Liu).
 
-I organise Monash Software Systems and Cybersecurity (SSC) Seminars. If you are interested in cutting-edge research in cybersecurity, sofware engineering and data engineering, see [our website](https://www.monash.edu/it/ssc/seminars) for past and upcoming events.
+I used to organise Monash Software Systems and Cybersecurity (SSC) Seminars. If you are interested in cutting-edge research in cybersecurity, sofware engineering and data engineering, see [our website](https://www.monash.edu/it/ssc/seminars) for past and upcoming events.
 
 I have **multiple PhD scholarships available**. Please refer to [supervision](https://mfesgin.github.io/supervision/).
 
