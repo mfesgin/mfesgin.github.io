@@ -28,13 +28,14 @@ I have **multiple PhD scholarships available**. Please refer to [supervision](ht
 This webpage is currently under development. If you spot any issues, please contact me via email (provided at the end of the page).
 
 #### Notable Contributions
-- [MatRing](https://eprint.iacr.org/2019/445.pdf): First practical and scalable ring signature based on lattices
-- [MatRiCT](https://eprint.iacr.org/2019/1287.pdf): First practical quantum-safe private blockchain payment based on ring signatures (a.k.a. RingCT)
-- [LAS](https://eprint.iacr.org/2020/845.pdf): First quantum-safe adaptor signature and payment channel network
-- [LB-VRF](https://eprint.iacr.org/2020/1222.pdf): First practical quantum-safe (few-time) verifiable random function (VRF)
-- [DualRing](https://eprint.iacr.org/2021/1213.pdf): One of the most efficient ring signatures (classical and quantum-safe)
-- [MatRiCT+](https://eprint.iacr.org/2021/545.pdf): One of the most efficient quantum-safe ring signatures and private blockchain payment protocol
+- [LUNA](https://eprint.iacr.org/2022/1690.pdf): Most efficient (designated verifier) zk-SNARK from lattices
 - [LaV](https://eprint.iacr.org/2022/141.pdf): Most efficient quantum-safe verifiable random function (VRF)
+- [MatRiCT+](https://eprint.iacr.org/2021/545.pdf): One of the most efficient quantum-safe ring signatures and private blockchain payment protocol
+- [DualRing](https://eprint.iacr.org/2021/1213.pdf): One of the most efficient ring signatures (classical and quantum-safe)
+- [LB-VRF](https://eprint.iacr.org/2020/1222.pdf): First practical quantum-safe (few-time) verifiable random function (VRF)
+- [LAS](https://eprint.iacr.org/2020/845.pdf): First quantum-safe adaptor signature and payment channel network
+- [MatRiCT](https://eprint.iacr.org/2019/1287.pdf): First practical quantum-safe private blockchain payment based on ring signatures (a.k.a. RingCT)
+- [MatRing](https://eprint.iacr.org/2019/445.pdf): First practical and scalable ring signature based on lattices
 
 
 #### Program Committee Memberships
