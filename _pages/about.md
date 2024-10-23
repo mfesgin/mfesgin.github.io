@@ -39,7 +39,7 @@ This webpage is currently under development. If you spot any issues, please cont
 
 
 #### Program Committee Memberships
-- 2025: [Financial Cryptography](https://fc25.ifca.ai/), [ACISP](https://uow-ic2.github.io/acisp2025/pc.html)
-- 2024: [ACM CCS](https://www.sigsac.org/ccs/CCS2024/home.html)
+- 2025: [ACM CCS](https://www.sigsac.org/ccs/CCS2025/), [The Web Conference](https://www2025.thewebconf.org/research-tracks), [Financial Cryptography](https://fc25.ifca.ai/), [ACISP](https://uow-ic2.github.io/acisp2025/pc.html)
+- 2024: [ACM CCS](https://www.sigsac.org/ccs/CCS2024/)
 - 2023: [ACM AsiaCCS](https://asiaccs2023.org/), [ASIACRYPT](https://asiacrypt.iacr.org/)
 - 2021: [ACISP](https://data61dsslab.github.io/acisp2021/)
