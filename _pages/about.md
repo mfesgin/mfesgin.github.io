@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Lecturer, <a href='https://www.monash.edu/it'>Faculty of Information Technology, Monash University</a>
+subtitle: Senior Lecturer, <a href='https://www.monash.edu/it'>Faculty of Information Technology, Monash University</a>
 
 profile:
   align: right
@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am interested in mathematical aspects of cybersecurity, particularly around cryptography. My current research focuses are quantum-safe cryptography (particularly, from lattices and hash functions), privacy-enhancing technologies, zero-knowledge proofs and blockchain protocols as well as their real-life applications to establish various security features such as confidentiality, integrity, privacy, anonymity and accountability in practice. I have also worked on symmetric-key cryptography and classical public-key cryptography.
 
-I currently work as a lecturer at the Faculty of Information Technology, Monash University, where I also serve as the Deputy Course Director of Master of Cybersecurity and the Deputy Director of Post-Quantum Cryptography in the Indo-Pacific ([PQCIP](https://ocsc.com.au/pqcip/)) Program. Before that, I was a post-doc at Monash and CSIRO's Data61 jointly. I also did a research internship at IBM Research, Zurich, hosted by [Vadim Lyubashevsky](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-vad). I completed my PhD at Monash under the supervision of [Ron Steinfeld](https://users.monash.edu.au/~rste/), [Joseph Liu](https://users.monash.edu.au/~kailiu/) and [Dongxi Liu](https://people.csiro.au/L/D/Dongxi-Liu).
+I currently work as a Senior Lecturer at the Faculty of Information Technology, Monash University, where I also serve as the Course Director of Master of Cybersecurity and the Deputy Director of Post-Quantum Cryptography in the Indo-Pacific ([PQCIP](https://ocsc.com.au/pqcip/)) Program. Before that, I was a post-doc at Monash and CSIRO's Data61 jointly. I also did a research internship at IBM Research, Zurich, hosted by [Vadim Lyubashevsky](https://researcher.watson.ibm.com/researcher/view.php?person=zurich-vad). I completed my PhD at Monash under the supervision of [Ron Steinfeld](https://users.monash.edu.au/~rste/), [Joseph Liu](https://users.monash.edu.au/~kailiu/) and [Dongxi Liu](https://people.csiro.au/L/D/Dongxi-Liu).
 
 I used to organise Monash Software Systems and Cybersecurity (SSC) Seminars. If you are interested in cutting-edge research in cybersecurity, sofware engineering and data engineering, see [our website](https://www.monash.edu/it/ssc/seminars) for past and upcoming events.
 
@@ -39,6 +39,7 @@ This webpage is currently under development. If you spot any issues, please cont
 
 
 #### Program Committee Memberships
+- 2026: [PKC](https://pkc.iacr.org/2026/)
 - 2025: [ACM CCS](https://www.sigsac.org/ccs/CCS2025/), [The Web Conference](https://www2025.thewebconf.org/research-tracks), [Financial Cryptography](https://fc25.ifca.ai/), [ACISP](https://uow-ic2.github.io/acisp2025/pc.html)
 - 2024: [ACM CCS](https://www.sigsac.org/ccs/CCS2024/)
 - 2023: [ACM AsiaCCS](https://asiaccs2023.org/), [ASIACRYPT](https://asiacrypt.iacr.org/)
