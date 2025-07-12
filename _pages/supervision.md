@@ -76,6 +76,8 @@ Your CV **should NOT** contain the following information:
 
 I have (had) the privilege of supervising the following PhD candidates:
 
+1. Muhammad Arzaki \[2024--present\]
+	- works on post-quantum threshold schemes
 1. Yini Lin \[2024--present\]
 	- works on post-quantum privacy tools
 1. Jie Xu \[2023--present\]
@@ -84,5 +86,5 @@ I have (had) the privilege of supervising the following PhD candidates:
 	- works on implementation aspects of post-quantum cryptography
 1. Nikai Jagganath \[2023--present\]
 	- works on quantum security analysis of post-quantum cryptography schemes 
-1. Xinyu Zhang \[2021--present\]
-	- works on post-quantum cryptography solutions based on symmetic-key primitives
+1. Xinyu Zhang \[2021--2025\]
+	- worked on post-quantum cryptography solutions based on symmetic-key primitives
