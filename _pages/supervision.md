@@ -78,6 +78,8 @@ Your CV **should NOT** contain the following information:
 
 I have (had) the privilege of supervising the following PhD candidates:
 
+1. Jiahao Xuan \[2025--present\]
+	- works on post-quantum cryptography
 1. Muhammad Arzaki \[2024--present\]
 	- works on post-quantum threshold schemes
 1. Yini Lin \[2024--present\]
