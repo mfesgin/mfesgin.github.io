@@ -95,5 +95,5 @@ I have (had) the privilege of supervising the following PhD candidates:
 
 I enjoy gathering with my team regularly. Here is a photo from our Monash PQC Team Lunch.
 <div style="text-align: center;">
-  <img src="assets/img/monash_team_lunch.jpeg" alt="Monash PQC Team Lunch">
+  <img src="https://github.com/mfesgin/mfesgin.github.io/blob/master/assets/img/monash_team_lunch.jpeg" alt="Monash PQC Team Lunch">
 </div>
