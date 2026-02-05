@@ -93,8 +93,7 @@ I have (had) the privilege of supervising the following PhD candidates:
 1. Xinyu Zhang \[2021--2025\]
 	- worked on post-quantum cryptography solutions based on symmetic-key primitives
 
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/monash_team_lunch.jpeg" title="Monash PQC Team Lunch" class="img-fluid rounded z-depth-1" %}
-  </div>
+I enjoy gathering with my team regularly. Here is a photo from our Monash PQC Team Lunch.
+<div style="text-align: center;">
+  <img src="assets/img/monash_team_lunch.jpeg" alt="Monash PQC Team Lunch">
 </div>
