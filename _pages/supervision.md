@@ -94,6 +94,4 @@ I have (had) the privilege of supervising the following PhD candidates:
 	- worked on post-quantum cryptography solutions based on symmetic-key primitives
 
 I enjoy gathering with my team regularly. Here is a photo from our Monash PQC Team Lunch.
-<div style="text-align: center;">
-  <img src="https://github.com/mfesgin/mfesgin.github.io/blob/master/assets/img/monash_team_lunch.jpeg" alt="Monash PQC Team Lunch">
-</div>
+![Monash PQC Team Lunch](../assets/img/monash_team_lunch.jpeg)
