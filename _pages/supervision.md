@@ -2,9 +2,10 @@
 layout: page
 permalink: /supervision/
 title: supervision
-description:
+description: page about PhD supervision information
 nav: true
 nav_order: 4
+img: /assets/img/monash_team_lunch.jpeg
 ---
 
 
