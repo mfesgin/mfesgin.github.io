@@ -2,10 +2,9 @@
 layout: page
 permalink: /supervision/
 title: supervision
-description: page about PhD supervision information
+description:
 nav: true
 nav_order: 4
-img: /assets/img/monash_team_lunch.jpeg
 ---
 
 
@@ -93,3 +92,9 @@ I have (had) the privilege of supervising the following PhD candidates:
 	- works on quantum security analysis of post-quantum cryptography schemes 
 1. Xinyu Zhang \[2021--2025\]
 	- worked on post-quantum cryptography solutions based on symmetic-key primitives
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/monash_team_lunch.jpeg" title="Monash PQC Team Lunch" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
